@@ -1,0 +1,1 @@
+Aqui nesse projeto pude colocar em pratica o que aprendi no primeiro modulo do curso de HTML e criei o meu primeiro site usando tags e links aprendidos. Me esforcei para poder montar um site pratico e de facil navegação.
